@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "ec34618df40502b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d8cb9f90ce92fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3385a693e50f46ea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "simple-mass-combat_trekiros_v2.pdf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "simple-mass-combat_trekiros_v2.pdf"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "005a43156af92a89",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfad648cb1da4951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "706245e9bea98794",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1af1b9324603773a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5dc308fab44b0965",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "080d42bdd52692c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "35558a723f2a8327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a73f82e6c6fb2c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "simple-mass-combat_trekiros_v2.pdf.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for simple-mass-combat_trekiros_v2.pdf"
+            }
+          },
+          {
+            "id": "e55dd939ca44ad8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "simple-mass-combat_trekiros_v2.pdf.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from simple-mass-combat_trekiros_v2.pdf"
+            }
+          },
+          {
+            "id": "1c7f2f61d926d44d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "172c9a96d2f0ba40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "simple-mass-combat_trekiros_v2.pdf.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of simple-mass-combat_trekiros_v2.pdf"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3385a693e50f46ea",
+  "lastOpenFiles": []
+}
